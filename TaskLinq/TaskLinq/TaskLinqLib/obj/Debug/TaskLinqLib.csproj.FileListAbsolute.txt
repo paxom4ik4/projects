@@ -1,0 +1,11 @@
+C:\Users\komarov\source\repos\TaskLinq\TaskLinqLib\bin\Debug\TaskLinqLib.dll
+C:\Users\komarov\source\repos\TaskLinq\TaskLinqLib\bin\Debug\TaskLinqLib.pdb
+C:\Users\komarov\source\repos\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.csprojAssemblyReference.cache
+C:\Users\komarov\source\repos\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.csproj.CoreCompileInputs.cache
+C:\Users\komarov\source\repos\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.dll
+C:\Users\komarov\source\repos\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.pdb
+C:\Users\st\Downloads\Day19\Day19\TaskLinq\TaskLinqLib\bin\Debug\TaskLinqLib.dll
+C:\Users\st\Downloads\Day19\Day19\TaskLinq\TaskLinqLib\bin\Debug\TaskLinqLib.pdb
+C:\Users\st\Downloads\Day19\Day19\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.csprojAssemblyReference.cache
+C:\Users\st\Downloads\Day19\Day19\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.dll
+C:\Users\st\Downloads\Day19\Day19\TaskLinq\TaskLinqLib\obj\Debug\TaskLinqLib.pdb

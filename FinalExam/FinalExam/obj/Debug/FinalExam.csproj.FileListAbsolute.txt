@@ -1,0 +1,6 @@
+C:\Users\st\source\repos\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\st\source\repos\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\st\source\repos\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\st\source\repos\FinalExam\obj\Debug\FinalExam.csprojAssemblyReference.cache
+C:\Users\st\source\repos\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\st\source\repos\FinalExam\obj\Debug\FinalExam.pdb

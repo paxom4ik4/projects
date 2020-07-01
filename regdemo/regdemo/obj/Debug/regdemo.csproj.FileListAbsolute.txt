@@ -1,0 +1,6 @@
+C:\Users\st\source\repos\regdemo\obj\Debug\regdemo.csprojAssemblyReference.cache
+C:\Users\st\source\repos\regdemo\bin\Debug\regdemo.exe.config
+C:\Users\st\source\repos\regdemo\bin\Debug\regdemo.exe
+C:\Users\st\source\repos\regdemo\bin\Debug\regdemo.pdb
+C:\Users\st\source\repos\regdemo\obj\Debug\regdemo.exe
+C:\Users\st\source\repos\regdemo\obj\Debug\regdemo.pdb

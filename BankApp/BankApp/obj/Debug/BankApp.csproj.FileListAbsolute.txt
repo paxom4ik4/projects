@@ -1,0 +1,10 @@
+D:\Академия\CSharp\BankApp\BankApp\bin\Debug\BankApp.exe.config
+D:\Академия\CSharp\BankApp\BankApp\bin\Debug\BankApp.exe
+D:\Академия\CSharp\BankApp\BankApp\bin\Debug\BankApp.pdb
+D:\Академия\CSharp\BankApp\BankApp\bin\Debug\BankLogic.dll
+D:\Академия\CSharp\BankApp\BankApp\bin\Debug\BankLogic.pdb
+D:\Академия\CSharp\BankApp\BankApp\obj\Debug\BankApp.csprojAssemblyReference.cache
+D:\Академия\CSharp\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+D:\Академия\CSharp\BankApp\BankApp\obj\Debug\BankApp.csproj.CopyComplete
+D:\Академия\CSharp\BankApp\BankApp\obj\Debug\BankApp.exe
+D:\Академия\CSharp\BankApp\BankApp\obj\Debug\BankApp.pdb

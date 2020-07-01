@@ -1,0 +1,6 @@
+D:\Академия\CSharp\BankApp\BankLogic\bin\Debug\BankLogic.dll
+D:\Академия\CSharp\BankApp\BankLogic\bin\Debug\BankLogic.pdb
+D:\Академия\CSharp\BankApp\BankLogic\obj\Debug\BankLogic.csprojAssemblyReference.cache
+D:\Академия\CSharp\BankApp\BankLogic\obj\Debug\BankLogic.csproj.CoreCompileInputs.cache
+D:\Академия\CSharp\BankApp\BankLogic\obj\Debug\BankLogic.dll
+D:\Академия\CSharp\BankApp\BankLogic\obj\Debug\BankLogic.pdb

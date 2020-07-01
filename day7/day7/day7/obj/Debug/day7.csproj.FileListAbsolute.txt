@@ -1,0 +1,6 @@
+D:\zelenko\day_7\day7\day7\bin\Debug\day7.exe.config
+D:\zelenko\day_7\day7\day7\bin\Debug\day7.exe
+D:\zelenko\day_7\day7\day7\bin\Debug\day7.pdb
+D:\zelenko\day_7\day7\day7\obj\Debug\day7.csprojAssemblyReference.cache
+D:\zelenko\day_7\day7\day7\obj\Debug\day7.exe
+D:\zelenko\day_7\day7\day7\obj\Debug\day7.pdb
